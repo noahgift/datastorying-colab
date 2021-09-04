@@ -15,5 +15,5 @@ Top pages in france for 2021-08-31:
 
 https://wikimedia.org/api/rest_v1/#/Pageviews%20data/get_metrics_pageviews_top_per_country__country___access___year___month___day_
 
-
+![france-query](https://user-images.githubusercontent.com/58792/132076636-30ddfef5-71c7-4af3-b92f-59903d9513d0.png)
 
